@@ -1,6 +1,6 @@
 # Marketika
 Верстка лендинг-страницы  по макету.
-
+https://nikitatrifonov.github.io/Marketika/.
 
 ## Использовано
 Html, Css, Sass, gulp
